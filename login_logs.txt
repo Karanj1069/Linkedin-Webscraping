@@ -1,0 +1,344 @@
+Crawled https://in.linkedin.com/?src=go-pa&trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin+login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9298387&mcid=6844056167778418689&cid=&gclid=EAIaIQobChMIs4n23IOUgAMVyA97Bx3e5QNFEAAYASAAEgKQf_D_BwE&gclsrc=aw.ds&original_referer=https%3A%2F%2Fwww.google.com%2F, 2023-07-19 03:03:41
+LOGGED IN with config.yml credentials, 2023-07-19 03:03:48
+SEARCHED FOR Mental Health, 2023-07-19 03:03:50
+Crawled https://in.linkedin.com/?src=go-pa&trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin+login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9298387&mcid=6844056167778418689&cid=&gclid=EAIaIQobChMIs4n23IOUgAMVyA97Bx3e5QNFEAAYASAAEgKQf_D_BwE&gclsrc=aw.ds&original_referer=https%3A%2F%2Fwww.google.com%2F, 2023-07-19 17:25:44
+LOGGED IN with config.yml credentials, 2023-07-19 17:25:48
+SEARCHED FOR Mental Health, 2023-07-19 17:26:07
+Crawled https://in.linkedin.com/?src=go-pa&trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin+login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9298387&mcid=6844056167778418689&cid=&gclid=EAIaIQobChMIs4n23IOUgAMVyA97Bx3e5QNFEAAYASAAEgKQf_D_BwE&gclsrc=aw.ds&original_referer=https%3A%2F%2Fwww.google.com%2F, 2023-07-19 17:33:47
+LOGGED IN with config.yml credentials, 2023-07-19 17:33:56
+Crawled https://in.linkedin.com/?src=go-pa&trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin+login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9298387&mcid=6844056167778418689&cid=&gclid=EAIaIQobChMIs4n23IOUgAMVyA97Bx3e5QNFEAAYASAAEgKQf_D_BwE&gclsrc=aw.ds&original_referer=https%3A%2F%2Fwww.google.com%2F, 2023-07-19 17:36:23
+LOGGED IN with config.yml credentials, 2023-07-19 17:36:43
+SEARCHED FOR Mental Health, 2023-07-19 17:36:46
+ERROR: until() got an unexpected keyword argument 'timeout', 2023-07-19 17:36:46
+Crawled https://in.linkedin.com/?src=go-pa&trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin+login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9298387&mcid=6844056167778418689&cid=&gclid=EAIaIQobChMIs4n23IOUgAMVyA97Bx3e5QNFEAAYASAAEgKQf_D_BwE&gclsrc=aw.ds&original_referer=https%3A%2F%2Fwww.google.com%2F, 2023-07-19 17:39:08
+LOGGED IN with config.yml credentials, 2023-07-19 17:39:15
+SEARCHED FOR Mental Health, 2023-07-19 17:39:21
+Error: TimeoutException - 'All' button not found, 2023-07-19 17:39:31
+CRAWLED through profile of Mansi Chaudhary, 2023-07-19 17:39:38
+CRAWLED through profile of Preshit Gupta, 2023-07-19 17:39:50
+CRAWLED through profile of Tarini Tandon, 2023-07-19 17:40:02
+ERROR: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0082A813+48355]
+	(No symbol) [0x007BC4B1]
+	(No symbol) [0x006C5358]
+	(No symbol) [0x006F09A5]
+	(No symbol) [0x006F0B3B]
+	(No symbol) [0x0071E232]
+	(No symbol) [0x0070A784]
+	(No symbol) [0x0071C922]
+	(No symbol) [0x0070A536]
+	(No symbol) [0x006E82DC]
+	(No symbol) [0x006E93DD]
+	GetHandleVerifier [0x00A8AABD+2539405]
+	GetHandleVerifier [0x00ACA78F+2800735]
+	GetHandleVerifier [0x00AC456C+2775612]
+	GetHandleVerifier [0x008B51E0+616112]
+	(No symbol) [0x007C5F8C]
+	(No symbol) [0x007C2328]
+	(No symbol) [0x007C240B]
+	(No symbol) [0x007B4FF7]
+	BaseThreadInitThunk [0x77047D59+25]
+	RtlInitializeExceptionChain [0x777EB79B+107]
+	RtlClearBits [0x777EB71F+191]
+, 2023-07-19 17:40:21
+Crawled https://www.linkedin.com/, 2023-07-25 16:40:45
+LOGGED IN with config.yml credentials, 2023-07-25 16:40:49
+ERROR: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00EBD293]
+	(No symbol) [0x00F1E37B]
+	(No symbol) [0x00F2C473]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+, 2023-07-25 16:40:51
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-25 16:41:30
+LOGGED IN with config.yml credentials, 2023-07-25 16:41:34
+ERROR: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00EBD293]
+	(No symbol) [0x00F1E37B]
+	(No symbol) [0x00F2C473]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+, 2023-07-25 16:41:38
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-25 16:42:39
+LOGGED IN with config.yml credentials, 2023-07-25 16:42:43
+ERROR: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00EBD293]
+	(No symbol) [0x00F1E37B]
+	(No symbol) [0x00F2C473]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+, 2023-07-25 16:42:47
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-26 15:30:20
+LOGGED IN with config.yml credentials, 2023-07-26 15:30:27
+SEARCHED FOR Mental Health, 2023-07-26 15:30:29
+Clicked on 'All' button, 2023-07-26 15:30:33
+CRAWLED through profile of Mansi Chaudhary, 2023-07-26 15:30:40
+CRAWLED through profile of Preshit Gupta, 2023-07-26 15:30:52
+ERROR: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0119A813+48355]
+	(No symbol) [0x0112C4B1]
+	(No symbol) [0x01035358]
+	(No symbol) [0x010609A5]
+	(No symbol) [0x01060B3B]
+	(No symbol) [0x0108E232]
+	(No symbol) [0x0107A784]
+	(No symbol) [0x0108C922]
+	(No symbol) [0x0107A536]
+	(No symbol) [0x010582DC]
+	(No symbol) [0x010593DD]
+	GetHandleVerifier [0x013FAABD+2539405]
+	GetHandleVerifier [0x0143A78F+2800735]
+	GetHandleVerifier [0x0143456C+2775612]
+	GetHandleVerifier [0x012251E0+616112]
+	(No symbol) [0x01135F8C]
+	(No symbol) [0x01132328]
+	(No symbol) [0x0113240B]
+	(No symbol) [0x01124FF7]
+	BaseThreadInitThunk [0x76347D59+25]
+	RtlInitializeExceptionChain [0x770EB79B+107]
+	RtlClearBits [0x770EB71F+191]
+, 2023-07-26 15:31:11
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-26 15:32:55
+LOGGED IN with config.yml credentials, 2023-07-26 15:33:03
+SEARCHED FOR Mental Health, 2023-07-26 15:33:05
+Clicked on 'All' button, 2023-07-26 15:33:09
+ERROR: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0119A813+48355]
+	(No symbol) [0x0112C4B1]
+	(No symbol) [0x01035358]
+	(No symbol) [0x010609A5]
+	(No symbol) [0x01060B3B]
+	(No symbol) [0x0108E232]
+	(No symbol) [0x0107A784]
+	(No symbol) [0x0108C922]
+	(No symbol) [0x0107A536]
+	(No symbol) [0x010582DC]
+	(No symbol) [0x010593DD]
+	GetHandleVerifier [0x013FAABD+2539405]
+	GetHandleVerifier [0x0143A78F+2800735]
+	GetHandleVerifier [0x0143456C+2775612]
+	GetHandleVerifier [0x012251E0+616112]
+	(No symbol) [0x01135F8C]
+	(No symbol) [0x01132328]
+	(No symbol) [0x0113240B]
+	(No symbol) [0x01124FF7]
+	BaseThreadInitThunk [0x76347D59+25]
+	RtlInitializeExceptionChain [0x770EB79B+107]
+	RtlClearBits [0x770EB71F+191]
+, 2023-07-26 15:33:23
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-26 15:35:06
+LOGGED IN with config.yml credentials, 2023-07-26 15:35:13
+SEARCHED FOR Mental Health, 2023-07-26 15:35:17
+Clicked on 'All' button, 2023-07-26 15:35:21
+ERROR: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0119A813+48355]
+	(No symbol) [0x0112C4B1]
+	(No symbol) [0x01035358]
+	(No symbol) [0x010609A5]
+	(No symbol) [0x01060B3B]
+	(No symbol) [0x0108E232]
+	(No symbol) [0x0107A784]
+	(No symbol) [0x0108C922]
+	(No symbol) [0x0107A536]
+	(No symbol) [0x010582DC]
+	(No symbol) [0x010593DD]
+	GetHandleVerifier [0x013FAABD+2539405]
+	GetHandleVerifier [0x0143A78F+2800735]
+	GetHandleVerifier [0x0143456C+2775612]
+	GetHandleVerifier [0x012251E0+616112]
+	(No symbol) [0x01135F8C]
+	(No symbol) [0x01132328]
+	(No symbol) [0x0113240B]
+	(No symbol) [0x01124FF7]
+	BaseThreadInitThunk [0x76347D59+25]
+	RtlInitializeExceptionChain [0x770EB79B+107]
+	RtlClearBits [0x770EB71F+191]
+, 2023-07-26 15:35:40
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-26 15:37:36
+LOGGED IN with config.yml credentials, 2023-07-26 15:37:42
+SEARCHED FOR Mental Health, 2023-07-26 15:37:44
+Clicked on 'All' button, 2023-07-26 15:37:48
+ERROR: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0119A813+48355]
+	(No symbol) [0x0112C4B1]
+	(No symbol) [0x01035358]
+	(No symbol) [0x010609A5]
+	(No symbol) [0x01060B3B]
+	(No symbol) [0x0108E232]
+	(No symbol) [0x0107A784]
+	(No symbol) [0x0108C922]
+	(No symbol) [0x0107A536]
+	(No symbol) [0x010582DC]
+	(No symbol) [0x010593DD]
+	GetHandleVerifier [0x013FAABD+2539405]
+	GetHandleVerifier [0x0143A78F+2800735]
+	GetHandleVerifier [0x0143456C+2775612]
+	GetHandleVerifier [0x012251E0+616112]
+	(No symbol) [0x01135F8C]
+	(No symbol) [0x01132328]
+	(No symbol) [0x0113240B]
+	(No symbol) [0x01124FF7]
+	BaseThreadInitThunk [0x76347D59+25]
+	RtlInitializeExceptionChain [0x770EB79B+107]
+	RtlClearBits [0x770EB71F+191]
+, 2023-07-26 15:38:02
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-26 15:39:31
+LOGGED IN with config.yml credentials, 2023-07-26 15:39:37
+SEARCHED FOR Mental Health, 2023-07-26 15:39:41
+Clicked on 'All' button, 2023-07-26 15:39:48
+ERROR: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0119A813+48355]
+	(No symbol) [0x0112C4B1]
+	(No symbol) [0x01035358]
+	(No symbol) [0x010609A5]
+	(No symbol) [0x01060B3B]
+	(No symbol) [0x0108E232]
+	(No symbol) [0x0107A784]
+	(No symbol) [0x0108C922]
+	(No symbol) [0x0107A536]
+	(No symbol) [0x010582DC]
+	(No symbol) [0x010593DD]
+	GetHandleVerifier [0x013FAABD+2539405]
+	GetHandleVerifier [0x0143A78F+2800735]
+	GetHandleVerifier [0x0143456C+2775612]
+	GetHandleVerifier [0x012251E0+616112]
+	(No symbol) [0x01135F8C]
+	(No symbol) [0x01132328]
+	(No symbol) [0x0113240B]
+	(No symbol) [0x01124FF7]
+	BaseThreadInitThunk [0x76347D59+25]
+	RtlInitializeExceptionChain [0x770EB79B+107]
+	RtlClearBits [0x770EB71F+191]
+, 2023-07-26 15:40:02
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-26 15:42:04
+ERROR: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.248)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0119A813+48355]
+	(No symbol) [0x0112C4B1]
+	(No symbol) [0x01035358]
+	(No symbol) [0x0101D293]
+	(No symbol) [0x0107E37B]
+	(No symbol) [0x0108C473]
+	(No symbol) [0x0107A536]
+	(No symbol) [0x010582DC]
+	(No symbol) [0x010593DD]
+	GetHandleVerifier [0x013FAABD+2539405]
+	GetHandleVerifier [0x0143A78F+2800735]
+	GetHandleVerifier [0x0143456C+2775612]
+	GetHandleVerifier [0x012251E0+616112]
+	(No symbol) [0x01135F8C]
+	(No symbol) [0x01132328]
+	(No symbol) [0x0113240B]
+	(No symbol) [0x01124FF7]
+	BaseThreadInitThunk [0x76347D59+25]
+	RtlInitializeExceptionChain [0x770EB79B+107]
+	RtlClearBits [0x770EB71F+191]
+, 2023-07-26 15:42:04
+Crawled https://www.linkedin.com/?original_referer=, 2023-07-26 15:43:04
+LOGGED IN with config.yml credentials, 2023-07-26 15:43:30
+SEARCHED FOR Mental Health, 2023-07-26 15:43:34
+Clicked on 'All' button, 2023-07-26 15:43:41
+CRAWLED through profile of Mansi Chaudhary, 2023-07-26 15:43:50
+CRAWLED through profile of Preshit Gupta, 2023-07-26 15:44:02
+CRAWLED through profile of Ayushi Tangnoo, 2023-07-26 15:44:14
+CRAWLED through profile of Rohit Kumar Tiwari, 2023-07-26 15:44:25
+ERROR: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0119A813+48355]
+	(No symbol) [0x0112C4B1]
+	(No symbol) [0x01035358]
+	(No symbol) [0x010609A5]
+	(No symbol) [0x01060B3B]
+	(No symbol) [0x0108E232]
+	(No symbol) [0x0107A784]
+	(No symbol) [0x0108C922]
+	(No symbol) [0x0107A536]
+	(No symbol) [0x010582DC]
+	(No symbol) [0x010593DD]
+	GetHandleVerifier [0x013FAABD+2539405]
+	GetHandleVerifier [0x0143A78F+2800735]
+	GetHandleVerifier [0x0143456C+2775612]
+	GetHandleVerifier [0x012251E0+616112]
+	(No symbol) [0x01135F8C]
+	(No symbol) [0x01132328]
+	(No symbol) [0x0113240B]
+	(No symbol) [0x01124FF7]
+	BaseThreadInitThunk [0x76347D59+25]
+	RtlInitializeExceptionChain [0x770EB79B+107]
+	RtlClearBits [0x770EB71F+191]
+, 2023-07-26 15:44:44
+ERROR: Message: Unable to locate or obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+, 2024-01-20 11:13:56
